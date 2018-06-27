@@ -415,7 +415,7 @@ client.on("message", message => {
       .setDescription(`
 
  _________________ 
-     1p
+     rwp
      امر تشغيل الأغنية , !شغل الرابط او اسم الأعنية
      rwskip
      تغير الأغنية
